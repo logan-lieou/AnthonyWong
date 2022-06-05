@@ -1,0 +1,19 @@
+# About Widget config
+[about]
+title = "Professor Anthony Wong PhD."                            # default: .Site.Title
+description = "Professor of Computer Science at Columbia University in New York"                      # default: .Site.Params.info.description
+logo = "professor.jpg"             # default: "/images/logo.png"
+
+# Breadcrumbs Widget config
+[breadcrumbs]
+separator = "/"                      # default: "/"
+
+# Recent Posts Widget config
+[recent_posts]
+title = ""                            # default: "Recent Posts"
+length = 4                            # default: 5
+excludeTypes = ["page"]               # default: ["page"]
+
+# Search Widget config
+[search]
+title = ""                      # default: "Search"

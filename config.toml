@@ -1,0 +1,28 @@
+baseURL = 'http://github.com/piss'
+languageCode = 'en-us'
+title = 'Anthony Wong'
+theme = 'minmo'
+
+[params.assets]
+favicon = "professor.jpg"
+
+[params.widgets]
+header = ["breadcrumbs"]
+sidebar = ["about", "recent_posts", "taxonomy_cloud"]
+footer = ["social_menu"]
+
+[params.copyright]
+prefix = ""
+holder = "Anthony Wong"
+startYear = "2022"
+suffix = "PhD."
+
+enableEmoji = true
+Paginate = 5
+
+[params.sidebar]
+enable = true
+
+[params.settings]
+accentColor = "#00008b"
+
